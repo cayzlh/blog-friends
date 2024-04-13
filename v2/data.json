@@ -1,0 +1,24 @@
+{
+  "version": "v2",
+  "content": [
+    {
+      "title": "CAYZLH",
+      "url": "https://www.cayzlh.com",
+      "avatar": "https://www.cayzlh.com/avatar.svg",
+      "description": "CODE IS POETRY"
+    },
+    {
+      "title": "小白笔记",
+      "url": "https://www.oshcz.cn",
+      "avatar": "https://bu.dusays.com/2023/10/20/6531d74ab9a15.png",
+      "description": ""
+    },
+    {
+      "title": "钟意的博客",
+      "url": "https://blog.thatcoder.cn/",
+      "avatar": "https://cdn.seclusion.work/hexo/stellar/image/favicon.webp",
+      "screenshot": "https://cdn.seclusion.work/hexo/stellar/image/shot.webp!screenshot",
+      "description": "感谢你的阅读."
+    }
+  ]
+}
